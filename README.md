@@ -1,2 +1,17 @@
-# Connected-College
-The website provides maintainance of attendace online. Live Cricket Update of matches ongoing in either Universities or in locality can be possible. Additionally pre-ordering of Canteen Food is avaliable to students which saves their waiting time because recess break is of less Duration.
+# ConnectedCollege
+
+## Team Name : Coder Clan
+
+## Team Members :-
+## #1 Devarsh Panchal (Team Leader)
+## #2 Harsh Mauny
+## #3 Meet Bhavsar
+## #4 Apurva Patel
+
+## Link : https://github.com/letscodedev/ConnectedCollege
+
+## Features:
+## 1. Attendance Tracker
+## 2. Live Score Updation 
+## 3. Canteen Orders
+## 4. Cleanliness Form
